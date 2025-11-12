@@ -1,6 +1,6 @@
 {
   "name": "sdo-test-package",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "sdo-test-package",
   "main": "dist/index.js",
   "files": [],
@@ -9,6 +9,6 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdomas-cksource/test-npm-publish.git"
+    "url": "git+https://github.com/sdomas-cksource/test-npm-publish.git"
   }
 }
