@@ -1,6 +1,6 @@
 {
   "name": "sdo-test-package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "sdo-test-package",
   "main": "dist/index.js",
   "files": [],
