@@ -6,5 +6,9 @@
   "files": [],
   "scripts": {},
   "license": "UNLICENSED",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/sdomas-cksource/test-npm-publish.git"
+  }
 }
